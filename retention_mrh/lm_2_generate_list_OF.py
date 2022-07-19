@@ -5,8 +5,7 @@
 # Auteurs : Guillaume PLANTIVEAU
 # Date : 24/01/2022
 #
-# Commande pour lancer le script:
-# %run lm_2_generate_list_OF --repertoire /met_dsm/TA/work/Sante -p 202205 -d 20220531 -s 22
+# Commande pour lancer le script:  
 
 import argparse
 import logging

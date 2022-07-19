@@ -1,6 +1,3 @@
-# https://jupyterhub.datasmart.apps.generali.fr/user/b010edv/proxy/8501/
-
-
 import streamlit as st
 import pandas as pd
 import numpy as np
